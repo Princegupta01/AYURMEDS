@@ -4,3 +4,4 @@ AyurMeds pioneers accessible healthcare through innovative technology, seamlessl
 python
 django
 sqlite
+dbms
